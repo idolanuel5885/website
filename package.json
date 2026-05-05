@@ -1,0 +1,12 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "Static site served with Express and custom CSP headers",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
